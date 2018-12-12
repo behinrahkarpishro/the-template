@@ -2,11 +2,11 @@
 @title[Introduction]
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+شرکت<br>*بهین راهکار*
 @snapend
 
 @snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+هلدینگ فناوری اطلاعات و امنیت
 @snapend
 
 ---
